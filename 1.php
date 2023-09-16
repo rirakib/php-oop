@@ -12,7 +12,7 @@
 
         //starting when scripting ending
         function __destruct(){
-            echo "fruite name is {$this->name}";
+            echo "fruit name is {$this->name}";
         }
     }
 
